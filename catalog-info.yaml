@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: working-repo
+  annotations:
+    github.com/project-slug: syoungs67/working-repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
